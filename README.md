@@ -1,9 +1,9 @@
 # NFA2RE
 ## Vijayraj Shanmugaraj (https://github.com/VijayrajS), Zubair Abid (https://github.com/zubairabid/)
-A visualisation of the conversion of a Non-Deterministic Finite Automaton to a Regular expression using d3js
+A visualisation of the conversion of a Non-Deterministic Finite Automaton to a Regular expression using d3.js
 
 
-# How to run the systems
+# How to run the system
 
 A server needs to be setup to demo the experiments using d3.js. We have used Python's SimpleHTTPServer, which should be present in any system with python installed.
 
