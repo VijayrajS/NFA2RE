@@ -1,5 +1,5 @@
 # NFA2RE
-## Vijayraj Shanmugaraj, Zubair Abid (https://github.com/zubairabid/)
+## Vijayraj Shanmugaraj (https://github.com/VijayrajS), Zubair Abid (https://github.com/zubairabid/)
 A visualisation of the conversion of a Non-Deterministic Finite Automaton to a Regular expression using d3js
 
 
